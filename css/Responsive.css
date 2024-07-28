@@ -97,6 +97,22 @@
     .left-logo {
         width: 50px;
     }
+
+    .home .content p,
+    .div-100 .div-50 p.para,
+    .contetnt p,
+    .footer .box-container .box p,
+    .footer .box-container .box .links {
+        font-size: 1.8rem;
+    }
+
+    .left-logo {
+        width: 150px;
+    }
+
+    .div-50 {
+        padding: 0;
+    }
 }
 
 @media (max-width:450px) {
